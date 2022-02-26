@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The marks of the apocalyptical beast, plainly decyphered and the danger of having communion with him clearly discovered. The testimony of a reverend and learned divine concerning the following treatise. As to the treatise, Mr. - and I have perused it carefully; and not to speak to please, but as the thing is, it is very clear, strong, and useful, and very fit to open the eyes of those Papists whom God hath a favour to: I wish the nation enjoyed it, being it is so solid, short, and fitted for good.</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77240</idno>
+            <idno type="STC">Wing B418A</idno>
+            <idno type="STC">ESTC R203034</idno>
+            <idno type="EEBO-CITATION">99896694</idno>
+            <idno type="PROQUEST">99896694</idno>
+            <idno type="VID">132218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2433:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The marks of the apocalyptical beast, plainly decyphered and the danger of having communion with him clearly discovered. The testimony of a reverend and learned divine concerning the following treatise. As to the treatise, Mr. - and I have perused it carefully; and not to speak to please, but as the thing is, it is very clear, strong, and useful, and very fit to open the eyes of those Papists whom God hath a favour to: I wish the nation enjoyed it, being it is so solid, short, and fitted for good.</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[2], 15, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>F.l. = Post-script.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132218:1"/>
+            <p>THE MARKS OF THE Apocalyptical Beaſt, PLAINLY DECYPHERED; AND The Danger of having COMMUNION with him clearly Diſcovered. The Teſtimony of a Reverend and Learned Divine con<g ref="char:EOLhyphen"/>cerning the following Treatiſe.</p>
+            <p>
+               <floatingText xml:lang="eng" type="approbation">
+                  <body>
+                     <p>
+                        <hi>As to the Treatiſe, Mr.—and I have peruſed it care<g ref="char:EOLhyphen"/>fully; and not to ſpeak to pleaſe, but as the thing is, it is very clear, ſtrong, and uſeful, and very fit to open the Eyes of thoſe Papiſts whom God hath a favour to: I wiſh the Nation enjoyed it, being it is ſo ſolid, ſhort, and fitted for good.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132218:2"/>
+            <pb n="1" facs="tcp:132218:2"/>
+            <head>The Marks of the <hi>Apocaliptical</hi> Beaſt Decyphered and the danger of having Communion with him Diſcovered.</head>
+            <p>IN the <hi>Thirteenth</hi> chapter of <hi>Revelation,</hi> we read of a ſtrange <hi>Beast, with ſeven Heads and ten Horns, riſing up out of the Sea;</hi>
+               <note place="margin">Verſ. 1. Verſ. 2. Verſ. 5, 6. Verſ. 7.</note> Monſtrous in ſhape, Blaſphemous in language, and impi<g ref="char:EOLhyphen"/>ouſly Cruel in practiſe; for <hi>he wars with the Saints, and over<g ref="char:EOLhyphen"/>comes them;</hi> who, by his Tone and Fraud, had gotten ſo large a Dominion and Empire, over the Souls, as well as Bodies,
+<note place="margin">Verſ. 3.</note> of de<g ref="char:EOLhyphen"/>luded men, that <hi>the whole Earth,</hi> is ſaid to <hi>wonder after the Beast;</hi> that is, to follow, or, as it is expreſſed more fully, <hi>to Worſhip him;</hi>
+               <note place="margin">Verſ. 4, 8.</note> nor without much inward Amazement at his bewitching Fi<g ref="char:EOLhyphen"/>gure (as being in part like to <hi>a Panther,</hi>
+               <note place="margin">Verſ. 2.</note> which of all other crea<g ref="char:EOLhyphen"/>tures hath a moſt alluring ſhape) and ſeemingly invincible pu<g ref="char:EOLhyphen"/>iſſance; for, <hi>who,</hi> ſay they, <hi>is like to the Beast,</hi> who <hi>is able to war with him?</hi> But all this time they were ignorant; that, while they <hi>worſhipped the Beaſt,</hi>
+               <note place="margin">Verſ. 4. Rev. 12.9. Rev. 13.2, 4.</note> they only <hi>worſhipped the Dragon</hi> (or <hi>the De<g ref="char:EOLhyphen"/>vil</hi>) from whom that <hi>Beaſt,</hi> which they ſo ſtupidly admired and doted upon, did immediately derive all his <hi>Power and great Authority.</hi> And therefore all thoſe deceived and miſtaken Wor<g ref="char:EOLhyphen"/>ſhippers, how numerous ſoever, or what pretences ſoever they had to gild and colour their Irreligious and Blinde Devotion with; yet they are declared by the Spirit of God, to be in a ſad and deplorable condition,
+<note place="margin">Verſ. 8. Rev. 20.15</note> in that <hi>their Names are not written in the Book of Life,</hi> whoſe final Doom is, <hi>to be cast into the Lake of Fire.</hi>
+            </p>
+            <p>Leſt this Puniſhment ſhould be paſſed ſlightly over, as if it either were eaſie to be born, or that at laſt there were hopes of its ending, there is an <hi>Angel</hi> ſent on purpoſe to proclaim it in a moſt particular and dreadful manner,
+<note place="margin">Rev. 14.9, 10, 11</note> 
+               <hi>If any doth worſhip the Beaſt and his Image, and receiveth his Mark upon his forehead, or upon his head</hi> (i.e. who either openly profeſſeth his obedience to the <hi>Beaſt,</hi> in receiving that viſible <hi>Mark,</hi> or <hi>Name,</hi> or <hi>Character,</hi> by which his followers are ſignalized and diſtinguiſhed from all others: or, whoever avoiding the Name, in a more concealed and po<g ref="char:EOLhyphen"/>litick
+<pb n="2" facs="tcp:132218:3"/>way, doth ſecretly joyn his endeavours with thoſe who ſeek to uphold the <hi>Beaſt</hi> in his <hi>Throne</hi>) <hi>even he ſhall drink of the Wine of the wrath of God,
+<note place="margin">See of this Phraſe, Pſ. 75.8. Iſa. 51.22. Jer. 25.15.</note> which is without mixture, mingled in the cup of his Anger; and he ſhall bee tormented in the ſight of the Holy Angels, and in the ſight of the Lamb: And the ſmoak of their torment goeth up for ever and ever, and they have no reſt day or night, who wor<g ref="char:EOLhyphen"/>ſhip the Beaſt and his Image, and if any doth receive the Mark of his Name.</hi>
+            </p>
+            <p>There is not, that I know of, in the whole Book of God, any Curſe ſet out in more expreſs and affrighting language; but, becauſe we are all naturally apt <hi>to put far from us the evil day,</hi>
+               <note place="margin">Amos 6.3 Eccl. 8.11</note> and to think that a <hi>ſentence deferred</hi> (till after the Reſurrection) <hi>will never be executed;</hi> therefore in the <hi>Fifteenth</hi> chapter of <hi>Revelation,</hi> we have an account of <hi>ſeven Viols,</hi>
+               <note place="margin">Verſ. 7. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> or, <hi>goblets of Gold, all filled (up to the brim) with the wrath of God</hi> (which oftentimes in Scripture is compared to <hi>Wine,</hi> and, becauſe of the effects of it, is called <hi>the wine of Trembling,</hi>
+               <note place="margin">Pſal. 60.3 and Iſa. 51.21, 22 Rev. 15.1 <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. See Lam. 4.11. Eze. 5.13. Pſa. 78.38 &amp; 50 Deut. 32.23 Luk. 16.23, 24 Rev. 16.10, 11 2 Pet. 2.3</note> or <hi>Aſtoniſhment</hi>) whence they are called the <hi>ſeven laſt Plagues,</hi> or, <hi>Strokes, becauſe in them the wrath of God is fi<g ref="char:EOLhyphen"/>niſhed</hi> (i.e. is fully and perfectly accompliſhed, without any far<g ref="char:EOLhyphen"/>ther Reſerve or Delay of Vengeance, as this Phraſe in other places ſignifies.) God then, in the words of the Pſalmiſt, ſaith, <hi>Not turning away his anger,</hi> but <hi>ſtirring up all his wrath,</hi> and <hi>weighing out a Path for his Fury, he heaps miſchiefs, and ſpends his Arrows</hi> upon a rebellious and ſinful world, with ſuch an over-flowing deluge of intollerable calamities, that the ſufferers of them, like men already damned, <hi>do gnaw their Tongues for pain, and Blaſpheme the God of Heaven;</hi> whereby, in ſtead of getting eaſe, they only ri<g ref="char:EOLhyphen"/>pen and fit themſelves for their <hi>Appointed,</hi> and then approaching, Ruine. All which miſeries, little differing from the torments of Hell but only in continuance, remain to bee felt in this life, and that only by ſuch,
+<note place="margin">Rev. 16.2</note> as <hi>have the Mark of the Beaſt, and who wor<g ref="char:EOLhyphen"/>ſhip his Image;</hi> So that if either fear of future and endleſs, or ſenſe of imminent and unavoidable miſery (which then is moſt likely to ſeize upon us,
+<note place="margin">See 1 The. 5.1, 2, 3 Rev. 16.15 Luk. 21.34 35</note> when we think our ſelves moſt ſecure) can prevail with us to minde our ſafety, we are bound, with all imaginable diligence and ſpeed, to enquire who this <hi>Beaſt</hi> is, what is his <hi>Name,</hi> his <hi>Mark,</hi> his <hi>Number;</hi> leaſt, either by our wil<g ref="char:EOLhyphen"/>ful or unwary worſhipping of him, we become guilty of a Sin unpardonably heinous, and which God hath ſo expreſly threat<g ref="char:EOLhyphen"/>ned that he will moſt ſeverely and everlaſtingly puniſh.</p>
+            <pb n="3" facs="tcp:132218:3"/>
+            <p>To direct us in this ſearch,
+<note place="margin">Rev. 13.18 1 Sam. 21.8 See 2 The. 2.7. Rev. 17.5 See Rev. 13.18. and 17 9</note> although the ſpirit of God hath left ſome things (and particularly the <hi>Number of the Beaſts Name</hi>) ſtill veiled, and (like <hi>Goliahs Sword behinde the Ephod</hi>) wrapped them up in a <hi>Myſtery;</hi> and that on purpoſe to incite our ſtudy, and to quicken us the more vigourouſly to look after <hi>wiſdome;</hi> yet ſo much is plainly diſcovered to us, that unleſs we reſolve to be ignorant, and, as the <hi>Jews</hi> did at the ſhining of the glory of Chriſt, wilfully ſhut our eyes, we cannot but be led unto a plain and manifeſt diſcovery of this his diſguiſed, but moſt dangerous and Implacable Adverſary: For this end, the <hi>Seventeenth</hi> chap<g ref="char:EOLhyphen"/>ter of <hi>Revelation</hi> was purpoſely writ, which is to be looked up<g ref="char:EOLhyphen"/>on, as the <hi>Key</hi> unto all the foregoing Viſion;
+<note place="margin">Verſ. 3. Verſ. 8.</note> but more particu<g ref="char:EOLhyphen"/>larly to that in the 13. chapter, with which the 17. perfectly a<g ref="char:EOLhyphen"/>grees, in the <hi>deſcription of the Beast,</hi> in the <hi>Number</hi> and <hi>final eſtate of his Worſhippers;</hi> unto which there are added ſome other things by way of Explication. As</p>
+            <p>Firſt,
+<note place="margin">Verſ. 3, 4</note> 
+               <hi>Upon the Beast</hi> there is diſcovered <hi>to ſit</hi> an Imperious and <hi>Whoriſh Woman,</hi> attired in a very ſumptuous and pompous man<g ref="char:EOLhyphen"/>ner, <hi>bedecked with Gold, and precious Stones, and Pearls,</hi>
+               <note place="margin">Compare Hoſ. 2.13 Jer. 4.30 See alſo Prov. 7 10, 16, 17 2 Theſ. 2.3, 4 1 Tim 4.1 2 Cor. 11.2, 3 Cant. 8.6 Iſa. 47.5 Rev. 18.7 Nah. 3.4 with Rev. 14.8. and 18.23</note> juſt as the <hi>Church of Iſrael</hi> is deſcribed by the Prophets, when ſhe was fallen from the Service of God, unto the worſhip of <hi>Idols;</hi> in reſem<g ref="char:EOLhyphen"/>blance of whom, this <hi>Woman</hi> may well be called, <hi>The Church A<g ref="char:EOLhyphen"/>poſtatical,</hi> as having now arrived unto the height of <hi>Apoſtacy,</hi> which before was propheſied of. For, as the <hi>true Church,</hi> the <hi>Vir<g ref="char:EOLhyphen"/>gin Spouſe of Chriſt,</hi> is ſaid <hi>to lean upon her Beloved,</hi> having depen<g ref="char:EOLhyphen"/>dance upon, and taking complacency in him alone; ſo this <hi>Falſe</hi> and <hi>Adulterous Church, ſits upon the Beaſt,</hi> by whom ſhe is ſup<g ref="char:EOLhyphen"/>ported and upheld, in whom ſhee glories as <hi>her Head,</hi> and by whoſe means ſhe extends her ſoveraignty ſo far, that, like <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> of old, <hi>ſhe ſits as Queen;</hi> and with <hi>Niniveth,</hi> that once Imperi<g ref="char:EOLhyphen"/>al City, ſhe <hi>intoxicates the Nations,</hi> and <hi>bewitcheth</hi> them unto a Communion with her, in her Abominable and Idolatrous Pra<g ref="char:EOLhyphen"/>ctiſes. Whence it appears, that whatever ſhe may vaunt her ſelf to be, as the <hi>Mother Church, the Miſtreſs of Faith,</hi> and the like; yet when the <hi>Mystery of her Iniquity</hi> comes to be <hi>revealed,</hi> and the Curtain drawn, ſhe muſt then be called,
+<note place="margin">Rev. 17.5</note> as the Spirit of God doth call her, in her true ſtile, <hi>The Mother of Harlots</hi> (i. e. of all falſe and Adulterous Churches) <hi>and of the Adominations of the earth,</hi> (i. e. of all Impious and Idolatrous Practiſes.) And that wee might not wonder who this <hi>Woman</hi> ſhould be, as men ignorant
+<pb n="4" facs="tcp:132218:4"/>or ſurprized are wont to do (for even the holy Evangeliſt,
+<note place="margin">Revel. 17 6.</note> who ſaw her but in a viſion could not but <hi>greatly wonder at her</hi>) the <hi>Angel</hi> plainly tells us that this <hi>woman</hi> was nothing elſe but the <hi>City placed upon ſeven Hills,</hi>
+               <note place="margin">verſe 9. verſe 10, 11, <hi>&amp;c.</hi> ſee <hi>Tacitus</hi> p. 1, 2. Verſe 18.</note> which had already paſſed thorough <hi>five</hi> ſeveral forms of Governments; being then under the <hi>ſixth, viz.</hi> that of <hi>Heathen Emperours,</hi> and (to leave no ſcruple or doubt remaining) which, at that time, when he ſaw this Viſion, and wrote this Propheſie, had the <hi>ſupreme Dominion over the Kings of the Earth:</hi> Which City, if any one can be ſo far miſtaken, as to deny to be <hi>Rome,</hi> he muſt finde out ſome other City, unto whom thoſe Properties will more exactly agree, which is alto<g ref="char:EOLhyphen"/>gether impoſſible.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">Sedes Ro<g ref="char:EOLhyphen"/>mana.</note> Though by this diſcovery of the <hi>Whore,</hi> we might ſatisfactorily enough be led unto a knowledge of the <hi>Beaſt,</hi> up<g ref="char:EOLhyphen"/>on whom ſhe <hi>fits:</hi> yet that we might be more certainly and in<g ref="char:EOLhyphen"/>fallibly guided,
+<note place="margin">Rev. 17.3. <hi>Mark</hi> 1.</note> the Spirit of God is pleaſed to lay down ſome clearer <hi>Marks</hi> to make him evident and notorious to us.</p>
+            <p>
+               <hi>Firſt, The Beaſt,</hi> is ſaid to be <hi>of a skarlet-colour, and full of the Names of Blaſphemy,</hi>
+               <note place="margin">Of his Blaſphemy ſee Iſa. 14.13, 14. Dan. 3.15. &amp; 4.30. Of his Blaſphemy ſee Dan. 8. 9-12. and 11.36, 37 He was called <hi>Do minus Deuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> no<g ref="char:EOLhyphen"/>ſter.</hi> Martial. Verſe 6. Job. 22. 25-17. with 21.14, 15. Exod. 5.2. 2 Kings 19 10, 16.</note> not being it ſeems contented with one Name, as <hi>Nebuchadnezzar, Antiochus Epiphanes, Domitian,</hi> and other Tyrants and Oppreſſours, his Predeceſſours were; but this <hi>Beaſt,</hi> as he ſucceeded into their roome, ſo he was to inherit their Nature, and to out-do them in the worſt of their Actions; load<g ref="char:EOLhyphen"/>ing himſelf with many ſacrilegious <hi>Names of Blaſphemy,</hi> that ſo he might the more eaſily be diſcovered. What theſe <hi>Names</hi> are, is not particularly expreſſed, but they may eaſily be gueſſed at, by the character which is given of him in the 13th. Chapter: That <hi>he opens his mouth in blaſphemy againſt God, to blaſpheme his Name, and his Tabernacle, and thoſe that dwell in Heaven.</hi> The ſeveral parts of which deſcription deſerve to be particularly in<g ref="char:EOLhyphen"/>ſiſted on.</p>
+            <p n="1">1. To utter <hi>Blaſphemy againſt God;</hi> or, <hi>to Blaſpheme the Name of God,</hi> may be done two waies: Either,</p>
+            <p n="1">1. In direct and open denying the very Being of God, as <hi>the men before the Flood, Pharaoh</hi> and <hi>Senacherib</hi> did; Saying, <hi>Who is the Lord, that we ſhould obey his voice?</hi> Or,</p>
+            <p n="2">2. When frail men, by reaſon of ſome outward ſucceſs given them, do intrude themſelves into the Place and Authority of God, by aſſuming ſome of his Divine and Incommunicable At<g ref="char:EOLhyphen"/>tributes: Thus the <hi>Prince of Tyre</hi> Blaſphemed God, when he ſaid:
+<pb n="5" facs="tcp:132218:4"/>
+               <hi>I am a God, I ſit in the ſeat of God;</hi>
+               <note place="margin">Ezek. 28.2, 3, 4.6.</note> of whom likewiſe it is ſpoken in a way of ſacred Irony: <hi>Behold thou art wiſer than</hi> Daniel, (<hi>i. e.</hi> than any of the Prophets, or <hi>divinely inſpired</hi> men) <hi>there is no ſe<g ref="char:EOLhyphen"/>cret they can hide from thee:</hi> This arrogant Prince it ſeems not on<g ref="char:EOLhyphen"/>ly challenging the <hi>Power</hi> of God unto himſelf, but likewiſe his <hi>Wiſdome</hi> too, even pretending to a kinde of <hi>Omniſcience,</hi> and <hi>In<g ref="char:EOLhyphen"/>fallibility,</hi> for hee adds, <hi>with thy Wiſdome, and with thy underſtand<g ref="char:EOLhyphen"/>ing thou haſt gotten thee Riches:</hi> In conformity to which Deſcrip<g ref="char:EOLhyphen"/>tion, the Apoſtle <hi>Paul</hi> gives us this full and perfect Definition of <hi>Anti-Chriſt,</hi> or, of the <hi>Beaſt</hi> wee are enquiring after; He is one <hi>who oppoſeth</hi> (<hi>viz.</hi>
+               <note place="margin">2 Theſ. 2.4. Pſal. 82.</note> Chriſt and his Saints) <hi>and farre exalts himſelf above all that is called God, or Worſhipped</hi> (whereby is meant, not only above <hi>Magiſtrates,</hi> who are called Gods, but likwiſe a<g ref="char:EOLhyphen"/>bove every thing elſe, which is thought by men to be moſt capa<g ref="char:EOLhyphen"/>ble of Divine Honour (<hi>ſo that he as God, ſitteth in the Temple of God</hi> (<hi>i. e.</hi> in the Church, which was of old truly ſo, and ſtill pre<g ref="char:EOLhyphen"/>tends to be ſo) <hi>declaring himſelf that he is God: Declaring,</hi> that is, <hi>Demonſtrating</hi> and <hi>manifeſting</hi> this,
+<note place="margin">Mark 2.7.</note> by his pretending to a God<g ref="char:EOLhyphen"/>like Power; as to be <hi>able to pardon ſins, which none can do but God alone,</hi> To <hi>abſolve from Laws,</hi> To <hi>Diſpenſe with Oathes,</hi> To <hi>be Infal<g ref="char:EOLhyphen"/>lible,</hi> and the like, which Titles and Power whoever dares aſ<g ref="char:EOLhyphen"/>ſume to himſelf; He is <hi>The Anti-Chriſt,</hi> a <hi>Blaſphemer,</hi> and conſe<g ref="char:EOLhyphen"/>quently, <hi>that Beaſt</hi> whoſe <hi>Marks</hi> we are ſeeking for, of which the firſt is, that he was to be <hi>full</hi> of ſuch <hi>Names of Blaſphemy.</hi>
+            </p>
+            <p n="2">2. The <hi>Tabernacle of God,</hi> which this <hi>Beaſt</hi> is ſaid to <hi>Blaſpheme</hi> may either ſignifie the <hi>Church of God,</hi>
+               <note place="margin">Eph. 2.22 1 Tim. 3.5, 15.</note> (which oftentimes is called <hi>the Houſe of God</hi>) over which the <hi>Beaſt</hi> doth ſinfully aſſume a power; or, which I rather take to be the meaning, <hi>The humane Na<g ref="char:EOLhyphen"/>ture of Christ,</hi> for thus the divine Writer to the <hi>Hebrews,</hi> doth e<g ref="char:EOLhyphen"/>legantly call it, becauſe it was <hi>the true Tabernacle,
+<note place="margin">Heb. 8.2. and 9.11.</note> which God pitch<g ref="char:EOLhyphen"/>ed and not man:</hi> Which <hi>Tabernacle</hi> is <hi>Blaſphemed,</hi> when the Me<g ref="char:EOLhyphen"/>rit of thoſe Sufferings, which God himſelf underwent in the <hi>Humane Nature,</hi> is leſſened, and <hi>the blood of Chriſt</hi> not accounted ſufficient <hi>to cleanſe from ſin,</hi> without ſomething added by men to eek out its value; For ſince our Saviour expreſly affirmeth, that <hi>he gave his fleſh,</hi>
+               <note place="margin">Joh. 6.51</note> (<hi>i. e.</hi> his humane Nature) <hi>for the life of the World;</hi> and nothing can be more undeniable than that excellent Argument of a Divine Writer;
+<note place="margin">Heb. 9.13, 14.</note> 
+               <hi>If the blood of Bulls and of Goats doth ſanctifie to the purifying of the Fleſh; how much more ſhall the blood of Chriſt,</hi> who <hi>by the Eternal Spirit offered himſelf without ſpot
+<pb n="6" facs="tcp:132218:5"/>unto God, purifie</hi> our <hi>Conſcience from dead works.</hi> The ſhedding of that <hi>blood</hi> (which was the price paid for the ſatisfaction of ſin) being abundantly ſufficient to merit forgiveneſs, for millions of worlds, becauſe the Mortal Nature which ſuffered, by its Union with the Divine, was of Infinite and Incomparable Value; If then the <hi>Beaſt</hi> ſhall dare to extenuate and leſſen it, by pretending that ſome part of the Ranſome is yet unpaid, and that he hath power by his <hi>Indulgences</hi> to add ſomething to it, this muſt needs bee a <hi>Blaſphemy</hi> of the higheſt kinde, becauſe it is in effect to ſay, that the <hi>Son of God</hi> did not <hi>finiſh the work,</hi> for the full per<g ref="char:EOLhyphen"/>forming of which,
+<note place="margin">Heb. 10.5, 10, 14</note> 
+               <hi>a Body was prepared him.</hi>
+            </p>
+            <p n="3">3. <hi>Thoſe that dwell in Heaven,</hi> are the <hi>Angels</hi> and the departed <hi>Saints;</hi> who are then <hi>Blaſphemed,</hi> when any thing is aſcribed or done to them, which, were they now on Earth, they would not dare to own; Thus when <hi>the men of Lyſtra,</hi> who had the excuſe of an amazing Miracle to juſtifie them, <hi>did prepare to of<g ref="char:EOLhyphen"/>fer Sacrifice unto</hi> Paul <hi>and</hi> Barnabas; we read that thoſe bleſſed Apoſtles <hi>did rent their cloathes,</hi>
+               <note place="margin">Act. 14.14 2 Kings 18 37. Mat. 26.65</note> which was uſual in the caſes of <hi>Blaſphemy,</hi> and ſhews what Opinion they conceived of that A<g ref="char:EOLhyphen"/>ction. So when our <hi>Evangeliſt,</hi> perhaps onely in a pious grati<g ref="char:EOLhyphen"/>tude for ſuch great diſcoveries, <hi>would have fallen down at the An<g ref="char:EOLhyphen"/>gels feet to Worſhip him; The Angel,</hi> in a kinde of ſacred horror, <hi>forbad him,</hi>
+               <note place="margin">Revel. 19.10.</note> ſaying, <hi>See thou doſt it not, for I am thy fellow-Ser<g ref="char:EOLhyphen"/>vant, Worſhip God:</hi> And a greater than hee, even the <hi>Son of God</hi> himſelf, yet appearing in the forme of an <hi>Angel,</hi> would not have Sacrifice offered to him,
+<note place="margin">Jud. 13.16</note> but ſaith hee to <hi>Manoah; If thou wilt offer a Burnt-Offering, thou muſt offer it to the Lord:</hi> If therefore <hi>Sacrifice</hi> and <hi>Adoration</hi> was not at all pleaſing to thoſe bleſſed Spirits upon Earth,
+<note place="margin">1 Pet. 2.5 Heb. 13.15</note> we cannot think but <hi>Prayer and Praiſe</hi> (which are <hi>a Chriſtians Sacrifice</hi>) and other acts of <hi>Di<g ref="char:EOLhyphen"/>vine Worſhip,</hi> muſt needs be accounted by them as <hi>Blaſphemous</hi> now they are in Heaven. For they have not altered their minds, nor are they now leſſe zealous of Gods Honour, than when they did on Earth expreſs their utmoſt abhorrence of what-ever did but ſeem to intrench upon it. So that to ſumme up all the parts of this <hi>firſt Mark</hi> together, for a ſinful man, to aſſume the prerogative and incommunicable properties of God, to leſſen the Invaluable Merits, and Satisfaction of our Lord Chriſt, and to injoyn undue honour unto <hi>Saints</hi> and <hi>Angels,</hi> ſuch as were they now on earth, they would deteſt, theſe all are <hi>Blaſphemies</hi>
+               <pb n="7" facs="tcp:132218:5"/>of the groſſeſt nature, which who-ever belcheth forth, he is the <hi>Beaſt</hi> we are commanded to beware of.</p>
+            <p>
+               <hi>Secondly,</hi> Another <hi>Marke,</hi> and that no little one,
+<note place="margin">
+                  <hi>Mark.</hi> 2</note> by which the <hi>Beaſt</hi> may be known, is the numberleſs number of his fol<g ref="char:EOLhyphen"/>lowers; even <hi>the whole Earth,</hi> ſaith the Text,
+<note place="margin">Rev. 13.3 with 17.8</note> or <hi>All that dwell upon the Earth:</hi> whereby is not meant every individual perſon throughout the world, but as is afterwards explained, <hi>Every Tribe, and Tongue, and Nation:</hi> That is, All the Profeſſors of Chri<g ref="char:EOLhyphen"/>ſtianity throughout the world, except the <hi>Elect,</hi>
+               <note place="margin">Mat. 24.24 Rev. 17.8 Rev. 13.7 Rev. 12.17</note> or <hi>They whoſe Names are written in the Book of Life:</hi> Theſe are called <hi>the Saints,</hi> or <hi>the ſeed of the Woman,</hi> (<hi>i. e.</hi> the Sons and Daughters of the <hi>true Church</hi>) <hi>Whom the Dragon perſecuted: Who keep</hi> (not the <hi>Traditions of men,</hi> but) <hi>the Commandements of God, and</hi> (in direct oppoſition to the Uſurpations of <hi>Anti-Chriſt</hi>) <hi>do hold the Teſtimony of Jeſus:</hi> Who, in compariſon of that vaſt Rout, or rather Heard, which <hi>Worſhip the Beaſt,</hi> are ſtiled <hi>a little Flock,</hi> left, as it were,
+<note place="margin">Luke 12.32.</note> to hu<g ref="char:EOLhyphen"/>mane view altogether Naked and Defenceleſs, in the midſt of many fierce and ravening <hi>Wolves,</hi>
+               <note place="margin">Rev. 11.7</note> by whom they are no ſooner diſcovered, but they are hunted, taken, and <hi>ſlain:</hi> Which Gene<g ref="char:EOLhyphen"/>ral deluſion and raging madneſs of the <hi>Beſtal crew,</hi> together with the diſtreſſed condition of the <hi>Lambs company,</hi> muſt needs, even in the eye of common Reaſon, make thoſe ſwelling Titles of <hi>Uni<g ref="char:EOLhyphen"/>verſality, Viſibility, Pomp,</hi> and <hi>Extent of dominion,</hi> very unſafe and moſt unfit to plead as <hi>ſigns of the true Church,</hi> ſince during the whole time of the <hi>Beaſts Reign,</hi> they are applicable onely unto his Followers.</p>
+            <p>If any ask how it was poſſible, for the world, profeſſing them<g ref="char:EOLhyphen"/>ſelves (as they did) to be Chriſtians, to become ſo ſtupid,
+<note place="margin">Rev. 5.6</note> and ſenſeleſs, as, inſtead <hi>of the Lamb Chriſt Jeſus,</hi> to ſhew a Ty<g ref="char:EOLhyphen"/>rannical and outragious <hi>Beast,</hi> his greateſt Enemy; in anſwer to this, we muſt conſider, that from the firſt moment, wherein <hi>the Beaſt</hi> was inveſted in his Soveraignty, there was univerſally conceived a ſlaviſh dread of his Power; which made the over<g ref="char:EOLhyphen"/>awed and captivated world to cry out <hi>who is like unto the Beaſt?</hi>
+               <note place="margin">Rev. 13.4</note> 
+               <hi>who is able to warre with him,</hi> For if thoſe of <hi>Samaria were exceed<g ref="char:EOLhyphen"/>ingly afraid of Jehu,</hi>
+               <note place="margin">2 Kings 10.4.</note> and thought they reaſoned well when they ſaid, <hi>Behold two Kings ſtood not before him, how then ſhall wee ſtand?</hi> How much leſs able then were any to reſiſt the <hi>Beaſts</hi> encroachments, who had <hi>ten Horns, i. e. Ten Kings</hi> his Vaſſals,
+<note place="margin">Revel. 17.12, 13.</note> that owned him for <hi>their Head,</hi> and tamely gave up their
+<pb n="8" facs="tcp:132218:6"/>Authority to be diſpoſed of, and ordered by him? But beſides this Argument from <hi>Force</hi> and <hi>Fear,</hi> which alone had been ſuf<g ref="char:EOLhyphen"/>ficient to enſlave the world, there were two other cauſes, which did concur to make the ſpiritual Thraldome plauſible and uni<g ref="char:EOLhyphen"/>verſally taking.</p>
+            <p n="1">1. There was a willingneſs in the world to bee deceived; as the <hi>Iſraelites,</hi> being many years accuſtomed to the taſte of <hi>Man<g ref="char:EOLhyphen"/>nah</hi> (though it was <hi>bread of Heaven,</hi>
+               <note place="margin">Pſ. 105 40 Pſa. 78.24 25</note> and <hi>food for Angels)</hi> began to loath it: ſo did the <hi>World</hi> grow weary of the plainneſs of <hi>Truth,</hi> which made God in his juſt judgement, give them up to be acted by <hi>a Spirit of Errour,</hi>
+               <note place="margin">2 Theſ. 2.10, 12 Joh. 7.18 1 Cor. 13.6 So <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Pſal. 52.3</note> becauſe <hi>they loved not the Truth,</hi> ſaith the Apoſtle, <hi>but had pleaſure in unrighteouſneſs,</hi> or, <hi>in falſe<g ref="char:EOLhyphen"/>hood;</hi> as the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> often ſignifies. Men having then their Ears open to receive, and their mindes ready <hi>to believe a Lye;</hi> and offering themſelves as a willing Prey, to every one that would but take pains to cozen them.</p>
+            <p n="2">2. To this propenſity and readineſs, which was in the world, for the embracing of any kinde of Errour, there was not want<g ref="char:EOLhyphen"/>ing the Vigilance and care of <hi>a Falſe-Prophet</hi> to promote and preach it.
+<note place="margin">Rev. 16.13</note> Who being twin with the <hi>Ten-horned Beaſt, riſing out of the Earth</hi> at the ſame time,
+<note place="margin">Rev. 13.12</note> and ever preſent with him, uſed all his craft and induſtry to enlarge <hi>the Beaſts Kingdome,</hi> as be<g ref="char:EOLhyphen"/>ing himſelf a ſharer both in the Profit and Power of it. And therefore by his <hi>falſe Doctrine,</hi> which he had power to confirm by <hi>Miracles,</hi>
+               <note place="margin">Verſ 13,14</note> he eaſily perſwaded the credulous world to enſlave themſelves unto the <hi>Beaſt,</hi> and willingly <hi>to receive his Mark;</hi> and if any refuſed it,
+<note place="margin">Verſ. 16,17</note> 
+               <hi>he cauſed them to be killed;</hi> Preaching no doubt, as his predeceſſors did before him, concerning the A<g ref="char:EOLhyphen"/>poſtles,
+<note place="margin">Joh, 16.2</note> That, <hi>who ſo killed them did God good ſervice:</hi> Which <hi>Falſe-Prophet</hi> (in the uſual Scripture Dialect (where <hi>the frog, the Locuſt,</hi>
+               <note place="margin">Exod. 8.9 <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Exo. 10.12 <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a Pet. 2. 1 Joh. c.2. and c. 4 1 Tim. 4.1, 2.</note> and the like in the ſingular Number, doth comprehend the whole Species) ſignifies all thoſe <hi>Falſe-Teachers,</hi> which were to ariſe in the Church, whoſe Doctrine, and Manners, almoſt all the Apoſtles do fully declare. It is no wonder then, if ſuch vaſt Multitudes, for ſo many ages, ran blindly into pernicious and <hi>deſtructive Errours,</hi> who, being firſt diſpoſed by themſelves unto <hi>the love of falſe-hood,</hi> were afterwards forſaken by God, and had beſides many fly and cunning <hi>Impoſtours,</hi> to lead them far<g ref="char:EOLhyphen"/>ther aſtray: Their Eyes it ſeems being ſo dazled with the falſe <hi>Fire,</hi>
+               <note place="margin">Rev. 13.13</note> 
+               <hi>which</hi> by Miracles <hi>came down from Heaven,</hi> that men were
+<pb n="9" facs="tcp:132218:6"/>content to forget their way thither, and willing to be led to Hell in company. But had the world been then awakened, as now, through the goodneſs of God, ſome part of it is, they would have known that <hi>true Doctrine</hi> did alwaies precede and give a luſtre and credit to <hi>Miracles;</hi> for without their aid, Truth alone can maintain its Authority, as it did in <hi>John Baptists</hi> time:
+<note place="margin">Joh. 10.41, 42</note> But <hi>Miracles</hi> without <hi>true Doctrine</hi> (of which the Word of God muſt be the Touchſtone) are ſometimes ſuffered by God to try the ground<g ref="char:EOLhyphen"/>ed ſincerity of our Obedience:
+<note place="margin">See Deut. 13.1, 2 Mat. 24.24 25. 2 Theſ. 2.9 Rev. 13 13, 14. and 16.13, 14. &amp; 19, 20</note> And therefore wee are ſtrictly cautioned, that we be not deceived by them: So that whenever <hi>Miracles</hi> are urged in defence of Falſe or Queſtionable Do<g ref="char:EOLhyphen"/>ctrines, they only ſerve as Evidences to ſhew that the <hi>Falſe-Prophet</hi> is at work, and the way, for ſetting up <hi>the Kingdome of the Beaſt,</hi> or, <hi>the Throne of Anti-Chriſt,</hi> is ſecretly prepraring.</p>
+            <p>Thirdly, Another <hi>Mark,</hi>
+               <note place="margin">
+                  <hi>Mark</hi> 3.</note> and equal in Evidence to any of the former, is the time wherein <hi>the Beaſt</hi> began (not <hi>to Be,</hi> but) <hi>to Reign:</hi> Of this, is to be underſtood that Aenigmatical ſpeech of the Angel, <hi>The Beaſt, which is not, although he is.</hi>
+               <note place="margin">Rev. 17.8</note> Which Phraſe, as containing ſome ſingular ſenſe, is repeated twice in one Verſe; and this ſeems to be the meaning of it, that although <hi>the Beaſt,</hi> as to ſome of his parts, was then actually in Being, and ſome foundations were already laid for his future greatneſs (as likewiſe is elſewhere witneſſed) yet he had not hitherto ar<g ref="char:EOLhyphen"/>rived to his full growth; or as the Apoſtle <hi>Pauls</hi> Phraſe is.
+<note place="margin">See 2 Theſ. 2.6, 7 1 Joh. 2.18 &amp; 4.3.</note> 
+               <hi>He was not revealed</hi> as yet; which word <hi>revealed,</hi> when it is applied to <hi>the Man of Sin,</hi> I take to ſignifie the <hi>ſetting up of his Kingdome,</hi> and actual exerciſe of his Soveraignty, or, the viſible diſplaying of his Power: For thus <hi>the revealing of Christ,</hi> is uſed for his <hi>Reigning,</hi> and that by the Apoſtle <hi>Paul,</hi> in the ſame Epiſtle,
+<note place="margin">1 Pet. 1.7, 13. &amp; 4.13 2 Theſ. 1.5, 7</note> where he treats of <hi>Anti-Chriſt:</hi> what therefore the Apoſtle <hi>John</hi> ſpeaks concerning <hi>the Beaſt,</hi> that, <hi>Hee is not, although hee is;</hi> a<g ref="char:EOLhyphen"/>mounts to this, That, though he was in ſome degree already, even at that time (as a Poiſonous Plant, may be ſaid to be, as ſoon as it is ſown, and hath taken root in the Earth) yet he was not come then unto his abſolute Dominion, which, ſaith he after<g ref="char:EOLhyphen"/>ward, you muſt then look for, when <hi>ten Kings,</hi>
+               <note place="margin">Rev 17. 12, 13 <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 Theſ. 2.6, 7,8</note> who are to be <hi>his Horns,</hi> do ariſe, with whom, at the very ſame inſtant of time, <hi>the Beaſt</hi> ſhall begin his Reign. This, though ſomewhat more darkly, was intimated by the Apoſtle <hi>Paul,</hi> when he ſays, <hi>The Myſtery of Iniquity doth already work, only that which hindreth
+<pb n="10" facs="tcp:132218:7"/>(ſhall hinder) until he be taken out of the way,
+<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and then that lawleſs one ſhall be revealed.</hi> Which words, the Primitive Chriſtians did generally underſtand to ſignifie the <hi>Roman Empire,</hi>
+               <note place="margin">
+                  <hi>Tertul. A<g ref="char:EOLhyphen"/>polog.</hi> c. 32</note> as <hi>Tertulli<g ref="char:EOLhyphen"/>an</hi> witneſſeth in the name of them all; and this made them in all their meetings, to pray for the continuance of that Empire, that thereby <hi>the coming of Anti-Chriſt,</hi> and the Deſolation to be wrought by him, might be prevented. For while the <hi>Empire of Rome</hi> was undivided, and in its height of Soveraignty, <hi>the Beaſt,</hi> whoſe ſeat was in the City, had neither pretence of Plea, nor force of Power, ſufficient to make himſelf acknowledged as So<g ref="char:EOLhyphen"/>veraign there; but when that Empire was broken, and ſeveral Kingdomes did ariſe out of the Ruines of it (all which, for the better eſtabliſhment of themſelves, did agree to ſubmit unto the <hi>Biſhop of Rome,</hi> and to own him as their <hi>Head)</hi> then there was nothing left powerful enough to hinder <hi>the Beaſts</hi> Uſurpation: The time therefore, when theſe <hi>Monarchies</hi> or <hi>Principalities</hi> aroſe, muſt be carefully enquired after, becauſe from thence we muſt date the beginning of <hi>the Beaſts reign</hi> and <hi>Independant Supremacy;</hi> which was to laſt from that period of Time, even until the <hi>com<g ref="char:EOLhyphen"/>ing of Chriſt,</hi>
+               <note place="margin">See of this 2 Theſ. 2.8 Dan. 7.21, 22. Rev. 16 13-16. &amp; 19.19, 20, 21 See Dan. 7 &amp;c. 8.20 Dan. 7.25 &amp; 12.7 Rev. 12.14 Rev. 11.2, 3 &amp; 12.6. &amp; 13.5</note> who by the <hi>brightneſs of his perſonal appearance,</hi> will finally <hi>destroy the Beast,</hi> and fully plead the cauſe of his perſe<g ref="char:EOLhyphen"/>cuted and cruelly ſlaughtered Servants againſt him. From what hath been ſaid, three things do evidently follow.</p>
+            <p n="1">1. That <hi>the Beast</hi> is not <hi>one Man,</hi> as ſome do vainly imagine, but a Series or Race of Men ſucceeding one another in the ſame <hi>Beſtial and Blaſphemous Government and Titles,</hi>
+            </p>
+            <p n="2">2. That <hi>the Time, Times, and half a Time,</hi> the 42. <hi>Months, The three years and an half,</hi> or, which is all one account, <hi>The</hi> 1260. <hi>Years,</hi> ſo often mentioned in <hi>Daniel,</hi> and the <hi>Revelation,</hi> as the preciſe time limited by God for the duration of the <hi>Beaſts</hi> Dominion, muſt neceſſarily be underſtood of <hi>Prophetical daies,</hi> that is, <hi>taking a Day for a Year;</hi> as it is in that famous inſtance of <hi>Daniels weeks,</hi>
+               <note place="margin">Dan. 9 Numb. 14.34 Ezek. 44, 5, 6</note> and more than once elſewhere in Scripture be<g ref="char:EOLhyphen"/>fore; and this Interpretation as it is uſual, ſo it is moſt agree<g ref="char:EOLhyphen"/>able to the deſign of the Spirit of God, who ſpeaks of <hi>the Beaſt,</hi> as of one that was to reign a long time, and comparatively much longer than either the <hi>Chriſtian,</hi>
+               <note place="margin">Rev. 17.10 11</note> or the <hi>Heathen Emperours</hi> before him, in whoſe place <hi>the Beaſt</hi> was to ſucceed, as the <hi>eighth</hi> in Number, but indeed the <hi>ſeventh Head,</hi> and was thence for<g ref="char:EOLhyphen"/>ward to continue, until the Lord Chriſt himſelf came to take a<g ref="char:EOLhyphen"/>way his Authority from him.</p>
+            <pb n="11" facs="tcp:132218:7"/>
+            <p n="3">3. That ſince the breaking of the <hi>Roman Empire,</hi> and the Riſe of ſeveral <hi>Kingdomes</hi> or <hi>Principalities</hi> out of it (which by all wri<g ref="char:EOLhyphen"/>ters is placed between the fourth and the fifth Century, though many differ concerning the particular Time of each) there have already lapſed above 1200. years; all which time we muſt, in conformity to this Scripture, be forced to acknowledge, that <hi>the Beaſt,</hi> who was to begin his Reign with thoſe ten Kings, hath been viſibly and powerfully reigning; and to ſpeak more plain<g ref="char:EOLhyphen"/>ly, this the Spirit of God hath affirmed he was to do, and there<g ref="char:EOLhyphen"/>fore hath done, in <hi>Rome</hi> it ſelf, and thither wee are directed by the <hi>Angle</hi> to ſeek him, that wee may know who it is, whoſe Communion wee are with ſo much care commanded to a<g ref="char:EOLhyphen"/>void.</p>
+            <p>From what hath been ſaid it is very evident, nor indeed can any thing poſſibly bee more clear to all unprejudiced men, that as <hi>Rome</hi> was that City which was repreſented under the form of a <hi>Whoriſh Woman;</hi> ſo the <hi>Pope,</hi> or, <hi>Biſhop of Rome,</hi> is the <hi>Beast who bears her;</hi> It is he, who for many hundred of years, hath fix<g ref="char:EOLhyphen"/>ed his <hi>Seat,</hi> and his <hi>Supremacy</hi> there; It is hee, who challengeth Authority over all <hi>Kings</hi> and <hi>Earthly Magiſtrates</hi> (the greateſt of whom have been forced to wait as Lackeyes to make up his Train) It is He, who hath all theſe <hi>Names of Blaſphemy</hi> (of be<g ref="char:EOLhyphen"/>ing <hi>Head of the Church, Infallible, Pardoning Sin,</hi>
+               <note place="margin">Dan. 7.25</note> and the like) which the Spirit of God had before propheſied of, and witneſ<g ref="char:EOLhyphen"/>ſeth againſt: It is He, who hath attempted <hi>to change Times,</hi> and daily doth <hi>change Laws,</hi> diſpenſing for his own gain with whate<g ref="char:EOLhyphen"/>ver is Sacred and Holy: It is He, who <hi>Blaſphemes thoſe that dwell in Heaven,</hi> Canonizing whom hee pleaſeth for <hi>Saints,</hi> and then commanding them to be worſhiped as <hi>Gods;</hi> ſhewing himſelf hereby, not only to bee <hi>a God,</hi>
+               <note place="margin">Apolog.</note> but (as <hi>Tertullians</hi> expreſſion is) <hi>Deus Deificus, A God that can make Gods.</hi> So much is hee advanced above the condition of a Mortal Man. And laſtly, It is He, who hath <hi>the Falſe-Prophet</hi> to Act and Preach for him, even an infinite number of <hi>Monks, Fryars, Jeſuits,</hi> and the like <hi>Falſe-Teachers,</hi> who, being his ſworn Subjects, by their <hi>Lies</hi> and <hi>Lying Wonders,</hi> do all ſtrive to bring the World into the ſame Vaſſallage; not much caring what becomes of other Points;
+<pb n="12" facs="tcp:132218:8"/>ſo that Men will but be Ignorant enough, and quietly hold the <hi>Fundamental Article</hi> of their <hi>Creed,</hi> that, <hi>the Pope is Head of the Church;</hi> but if any, ſuſpecting him to be the Beaſt they are bid to beware of,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>Mic 3.5</note> do once boggle at this, then theſe <hi>Falſe-prophets, prepare,</hi> or, as the Hebrew word ſignifies, <hi>Hallow War againſt them,</hi> i.e, Wage an <hi>Holy War,</hi> the meaning of which Phraſe, our <hi>Proteſtant Churches</hi> in <hi>France, Savoy, Germany,</hi> and other places, are too ſenſibly acquainted with, to need an explica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>If this bee ſo, for the proof of which, I have not followed any pre-conceived Notions of mine own, but the unerring gui<g ref="char:EOLhyphen"/>dance of Scripture-light, then it doth neceſſarily follow, that in <hi>the Church of Rome</hi> (I mean for thoſe who knowingly live and dye in Communion with Her, acknowledging the <hi>Pope</hi> for their <hi>Head</hi>) there is not any poſſibility of Salvation; and to af<g ref="char:EOLhyphen"/>firm there is, is boldly to contradict the expreſs denuntiation of the Spirit of God, and therein to bee mercileſly Cruel unto the Souls of thoſe deluded men, under pretence of being Charita<g ref="char:EOLhyphen"/>ble.
+<note place="margin">2 Th. 2.10 See 2 Cor. 2.15. &amp; 4.3 Acts 2.47 1 Cor. 1.18 Jude. v. 4</note> The Apoſtle <hi>Paul</hi> ſaies, that <hi>the Deceivableneſs of Unrighte<g ref="char:EOLhyphen"/>ouſneſs works,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in them that periſh,</hi> or, <hi>in the loſt,</hi> who being alwaies oppoſed to the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or, <hi>the ſaved,</hi> it abundantly ſhews that all who continue their adherence unto the <hi>damnable Errours</hi> of that <hi>Church</hi> and <hi>Head,</hi> are wholly for<g ref="char:EOLhyphen"/>ſaken by God, and <hi>deſigned to Deſtruction.</hi> What may bee ſaid concerning former Times, when the <hi>Truth</hi> was not ſo clear, nor the <hi>Apoſtacy</hi> in all its parts ſo viſible, I will not determine; It is poſſible,
+<note place="margin">Acts 17.30 31</note> that, as heretofore, ſo then, <hi>God might wink at thoſe times of Ignorance;</hi> but I am ſure, hee now <hi>calls upon all to re<g ref="char:EOLhyphen"/>pent,</hi> or elſe wee muſt expect to periſh in our Obſtinacy. It is therefore very obſervable,
+<note place="margin">Verſ. 7 See Pſal. 96.5. and 115.4, &amp;c. Iſa. 41. 1 Theſ. 1.9</note> that in the 14th. of <hi>Revelation,</hi> firſt there comes <hi>an Angel</hi> to Preach <hi>the Everlaſting Goſpel;</hi> the ſum of which is no other, than what the <hi>Prophets</hi> and <hi>Apoſtles</hi> did Preach of Old, That <hi>men ſhould turn from Idols, to ſerve the living and true God;</hi> and <hi>worſhip him who made Heaven and Earth and the fountains of Waters:</hi> Upon the preaching of which Goſpel, im<g ref="char:EOLhyphen"/>mediately there follows another <hi>Angel</hi> proclaiming that dread<g ref="char:EOLhyphen"/>ful Judgement before mentioned, againſt ſuch as <hi>worſhip the
+<pb n="13" facs="tcp:132218:8"/>Beast, and receive his Mark or his Image.</hi> From whence I gather, that what-ever may be the dealings of God towards thoſe in <hi>Spain</hi> and <hi>Italy,</hi> or other places, where the Preaching of the <hi>E<g ref="char:EOLhyphen"/>verlaſting Goſpel</hi> is utterly ſuppreſt, and thoſe poor ſouls, who poſ<g ref="char:EOLhyphen"/>ſibly may long for light, are forcibly detained in darkneſs; yet in ſuch places, where the Truths of God are taught, and freedome given unto all that will come and hear them, there to continue in that ſin of <hi>Popery,</hi> which God hath already declared he will not pardon, muſt needs be utterly inconſiſtent with any hopes of Happineſs.</p>
+            <p>Although I need not ſay any more for the proof of this, than what hath already been ſpoken, concerning the Judgement threatned againſt all ſuch as obey that <hi>Man of ſin,</hi> and <hi>Childe of Perdition,</hi> the <hi>Pope,</hi> or the <hi>Beaſt,</hi> againſt whom the Lord hath an irreconcileable controverſie, yet in compaſſion to the ſouls of thoſe miſerably deceived <hi>Papiſts,</hi> amongſt us, I ſhall add theſe few things, farther. That</p>
+            <p n="1">1. If all, who either <hi>add to, or take away from,
+<note place="margin">Rev. 22.18 19.</note> the words of Scripture,</hi> are to expect all the <hi>Plagues</hi> threatned, and to bee excluded from the happineſs promiſed in it.</p>
+            <p n="2">2. If they, <hi>who Worſhip God after the Doctrines and Command<g ref="char:EOLhyphen"/>ments of men,</hi> do onely <hi>Worſhip him in vain;</hi>
+               <note place="margin">Mat. 15.9 13, 14.</note> and inſtead of gain<g ref="char:EOLhyphen"/>ing a reward for their Service, <hi>are to be plucked up, as Plants, not of the Fathers planting.</hi>
+            </p>
+            <p n="3">3. If they, who <hi>blindly,</hi> and with an <hi>implicite Faith, do follow after blinde Guides,</hi> will certainly at laſt <hi>fall</hi> with them <hi>into the ditch,</hi> even the bottomleſs-Pit of deſtruction.</p>
+            <p n="4">4. <note place="margin">Rev. 21.8. Pſal. 97.7.</note> If <hi>Idolaters are to have their portion in the Lake which burns with Fire and Brimſtone;</hi> and <hi>all ſuch are to be confounded; i. e.</hi> To pe<g ref="char:EOLhyphen"/>riſh for ever, <hi>who ſerve Graven Images, and boast themſelves of I<g ref="char:EOLhyphen"/>dols.</hi>
+            </p>
+            <p n="5">5. If they <hi>who believe a lye,</hi>
+               <note place="margin">2 Theſ. 2.9-12.</note> (as that a piece of Bread is turn<g ref="char:EOLhyphen"/>ed
+<pb n="14" facs="tcp:132218:9"/>into the very Body and Blood of the Son of God) <hi>and have pleaſure in ſuch unrighteouſneſs, are all to be damned.</hi>
+            </p>
+            <p n="6">6. If they <hi>who Worſhip Angels, hold not the Head, Christ;</hi> and therefore cannot look for any life from him.</p>
+            <p>
+               <hi>Laſtly,</hi> If they who, in a proud conceit of <hi>their own Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> either prefer it to, or elſe mingle it with <hi>the Righteouſneſs of Chriſt</hi> for <hi>Juſtification,</hi> do commit the very ſin of the <hi>Reprobate Jews,</hi>
+               <note place="margin">See Rom. 9 30-32. and 10.3. Gal. 2.21. and 5.4.</note> making the <hi>death of Chriſt in vain,</hi> and conſequently have no Intereſt in the Redemption purchaſed by it: If I ſay theſe things are of that hainous nature, as who ever is guilty of any one of them, is by the Word of God pronounced <hi>Worthy of death;</hi> then the <hi>Papiſts,</hi> who (beſides their bearing the <hi>Name</hi> of that accurſed <hi>Beast,</hi>
+               <note place="margin">2 Pet. 2.1</note> the <hi>Pope)</hi> do hold all theſe, and many more ſuch <hi>deſtructive Hereſies</hi> are certainly in a ſtate deſperately and deplorably dange<g ref="char:EOLhyphen"/>rous, and for any to teach otherwiſe, it is <hi>to ſpeak peace,</hi> and Pity where <hi>the mouth of the Lord hath not ſpoken it.</hi>
+            </p>
+            <p>For us therefore, who, through the infinite goodneſs of God, have eſcaped the ſnare, to have any <hi>Church Fellowſhip,</hi> or to ſeek <hi>Reconciliation</hi> with them, it is not onely ingratefully to ſlight the Mercy of our deliverance, but fooliſhly, if not im<g ref="char:EOLhyphen"/>piouſly, <hi>to ſell the Truth,</hi> or rather to betray it, into the hands of its moſt prejudiced, hardened, and implacable enemies: <hi>Let them</hi> therefore, in the Words of God by the Prophet to <hi>back-ſlidden</hi> Iſrael,
+<note place="margin">Jer. 15.19</note> 
+               <hi>Return to us,</hi> by renouncing their <hi>Blaſphe<g ref="char:EOLhyphen"/>mies,</hi> forſaking their <hi>Idolatries,</hi> and with-drawing their Obe<g ref="char:EOLhyphen"/>dience from that <hi>Beaſt</hi> they ſerve; <hi>but let not us return to them,</hi> by parting with <hi>one Iota</hi> of Scripture-Truths,
+<note place="margin">Rev. 18.4 Deut. 7.25, 26. and 13 18, 19. Levit. 14.44. Rev. 18.23, 24.</note> leaſt by <hi>partaking in their ſins,</hi> we become likewiſe ſharers <hi>in their Plagues;</hi> and by <hi>touching the accurſed thing, do make our ſelves a Curſe;</hi> and in<g ref="char:EOLhyphen"/>cur that guilt, which ſtill cleaves, like an <hi>incurable Leproſie,</hi> unto that <hi>Idolatrous and bloody City of Rome:</hi> Againſt which Ci<g ref="char:EOLhyphen"/>ty God hath formerly ſent the <hi>Goths</hi> and <hi>Vandals,</hi> and other Ex<g ref="char:EOLhyphen"/>ecutioners of his Vengeance, <hi>to ſcrape and to pare, and to cleanſe her filth out of her;</hi> but ſhe is now returned to her Trade again, ſtill <hi>Worſhipping Devils and Idols;</hi>
+               <note place="margin">Rev 9.20, 21.</note> 
+               <hi>and not repenting of her Fornica<g ref="char:EOLhyphen"/>tions,
+<pb n="15" facs="tcp:132218:9"/>Witch-crafts and Murders;</hi> It remains therefore,
+<note place="margin">Heb. 6.8</note> that like the <hi>Barren Earth,</hi> which having oft been Rained upon, <hi>brings forth onely Briars and Thorns, ſhe is nigh to a curſe, and her end is to be burnt with fire:</hi> This glorious ſpectacle,
+<note place="margin">Rev. 18 <hi>ib.</hi> v. 20 Rev. 6.10, 11 Rev. 11.17 18 2 Tim. 2.10, 11 Rev. 20.4, 6 Rev. 22 20 Cant. 8.14</note> though <hi>worldly-ſpirited men will lament and tremble at the ſight of;</hi> yet <hi>the Heavens, and the bleſſed Inhabitants of them,</hi> are commanded <hi>to re<g ref="char:EOLhyphen"/>joyce at:</hi> For which, the <hi>Souls of the Martyred Saints,</hi> that are al<g ref="char:EOLhyphen"/>ready <hi>under the Altar;</hi> and all their Brethren, who are yet <hi>wit<g ref="char:EOLhyphen"/>neſſing in the Wilderneſs</hi> do earneſtly pray, as being then <hi>to re<g ref="char:EOLhyphen"/>ceive a full Reward for their labours,</hi> and to <hi>Reign with Chriſt,</hi> for whom they ſuffered.</p>
+            <p>
+               <hi>Even ſo, come Lord Jeſus, come quickly.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:132218:10"/>
+            <head>POST-SCRIPT.</head>
+            <p>THough a Doctrine, which is built upon and confirmed by the Scriptures, <hi>the word of God,</hi> needs not any <hi>Teſtimony from Man</hi> for its farther eſtabliſhment; yet becauſe this Truth comes forth at this time without a Name, and ſome of the <hi>Pro<g ref="char:EOLhyphen"/>teſtant-Readers</hi> may poſſibly ſuſpect it to be New, and not agree<g ref="char:EOLhyphen"/>able unto the Judgement of our <hi>Reformed Churches;</hi> the Authour therefore of the foregoing Treatiſe hath thought fit to adde, that he hath delivered nothing for ſubſtance, but what is exactly con<g ref="char:EOLhyphen"/>ſonant, not only unto the Scripture, but unto that Interpreta<g ref="char:EOLhyphen"/>tion of it, which the moſt Learned and Judicious of our <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> Writers have already given: And this was thought ſo clear a Truth in former times, that this Article, <hi>The Pope is An<g ref="char:EOLhyphen"/>ti-Christ,</hi> hath been put into moſt of the <hi>Publick Confeſsions of Faith</hi> of the ſeveral <hi>Churches:</hi> And in our own Church, hee thinks it ſtill is, but he is aſſured it was, till of very late years, the Judgement of almoſt all that were of any Reputation, either for Religion or Learning. It were eaſie to exſcribe their Words and Arguments, but I ſhall content my ſelf with the Teſtimony of One, whoſe imcomparable Learning and Piety, together with the eminent Place and Authority hee enjoyed, may ſerve either to make his words to bee received, or at leaſt mine not over forwardly condemned. It is the Reverend Dr. <hi>Uſher</hi> Arch-Biſhop of <hi>Armagh,</hi>
+               <note place="margin">Pag 438.</note> who in his <hi>Catechiſme</hi> writes thus,</p>
+            <p>
+               <hi>As Christ is the Head of the Church, which is his Body; ſo Anti-Christ is the Head of the Romiſh Church, which is his Body.</hi>
+            </p>
+            <p>Queſt. <hi>Who is that Anti-Chriſt?</hi>
+            </p>
+            <p>Anſw. <hi>He is one, who under colour of being for Christ, and under Title of his Vice-gerent, exalteth himſelf above and against Chriſt oppo<g ref="char:EOLhyphen"/>ſing himſelf againſt all his Offices and Ordinances both in Church and Common-wealth; bearing Authority in the Church of God, ruling over that City with ſeven Hills, which did bear Rule over the Nations,
+<pb facs="tcp:132218:10"/>and put our Lord to death; A man of Sin, a Childe of Perdition, a Deſtroyer, eſtabliſhing himſelf by lying Mircacles and falſe Wonders: All which MARKS together, do agree with none, but the POPE of ROME.</hi>
+               <note place="margin">Pag. 439.</note>
+            </p>
+            <p>Queſt. <hi>What is the uſe of all his Doctrine?</hi>
+            </p>
+            <p>Anſw. <hi>That whoſoever are partakers of the Sins of</hi> Rome, <hi>are alſo under the ſame curſe</hi>—&amp;c.</p>
+            <p>Queſt. <hi>What farther?</hi>
+            </p>
+            <p>Anſw. <hi>That there can be no ſound Agreement betwixt Popery, and the profeſsion of the Goſpel, no more than betwixt Light and Darkneſs, Falſehood and Truth, God and Belial, and therefore no RECON<g ref="char:EOLhyphen"/>CILIATION can be deviſed betwixt them. For if the mem<g ref="char:EOLhyphen"/>bers of Anti-Chriſt ſhall be destroyed, we cannot in any ſort communicate with them in their Errors, unleſs we will bear them company in their deſtruction alſo.</hi>
+            </p>
+            <p>The Author hath no more to adde, but to beg of God, that he will own this Work by giving a Bleſſing to it, in this Dark and Cloudy day.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
